@@ -14,23 +14,23 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@kentcdodds/react-workshop-app": "^4.3.0",
-    "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
-    "chalk": "^4.1.2",
+    "@kentcdodds/react-workshop-app": "^6.0.2",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "chalk": "^5.2.0",
     "codegen.macro": "^4.1.0",
     "mq-polyfill": "^1.1.8",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-error-boundary": "^3.1.4"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-error-boundary": "^4.0.4"
   },
   "devDependencies": {
-    "@types/react": "^17.0.34",
-    "@types/react-dom": "^17.0.11",
-    "husky": "^4.3.8",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
+    "husky": "^8.0.3",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.4.1",
-    "react-scripts": "^4.0.3"
+    "prettier": "^2.8.8",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
